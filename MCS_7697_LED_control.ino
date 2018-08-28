@@ -13,8 +13,8 @@
 #define DHTTYPE DHT22   // DHT 22  (AM2302)
 
 // Assign AP ssid / password here _SSID "mifare2"   //iPhone7p
-char ssid[] = "mifare2";   //allan1129
-char key[] = "allan1129";
+char ssid[] = " ";   //allan1129
+char key[] = " ";
 
 // Assign device id / key of your test device
 MCSDevice mcs("D2IzGtGW", "40cyB94fxHV2N6GG");
